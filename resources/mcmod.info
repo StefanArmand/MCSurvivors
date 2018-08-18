@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sm",
+  "name": "Survivors",
+  "description": "a mod about survivors",
+  "version": "0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Deusumbra"],
+  "credits": "All mod players",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
